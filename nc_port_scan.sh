@@ -1,12 +1,12 @@
 #!/bin/sh
 
 nargs=$#
-help_msg="This is help message | my.sh ip_file port_file out_file tor |
+help_msg="nc_port_scan.sh ip_file port_file out_file tor |
 mention tor in argument if you want anonymous scan |
 for that you first need to configure tor and proxychains"
 if [ "$nargs" -eq 0 ]
 then
-	echo "type my.sh -h to print the help message"
+	echo "type nc_port_scan.sh -h to print the help message"
 	exit 1
 
 elif [ "$nargs" -eq 1 ]
