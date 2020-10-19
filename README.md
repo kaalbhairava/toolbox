@@ -11,6 +11,9 @@ Toolbox is a collection of scripts that can be used in day to day red team activ
 - ***web_scanner.py***
 
 > Keyword based web scraping for given IP addresses. Refer --help for more info
+- ***mask.ps1***
+
+> Use this script to encrypt or decrypt any file and execute script in-memory by directly downloading it from internet or reading from an encrypted file 
 
 ## To-Do
 - [ ] Keep adding more scripts!
