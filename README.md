@@ -5,4 +5,4 @@ Toolbox is a collection of scripts that can be used in day to day red team activ
 - ***split_to_files.py*** - This script takes input a file which contains loads of IP addresses that you want to break into smaller files of n interval. Use --help option for more details 
 
 ## To-Do
-[ ] Keep adding more scripts!
+- [ ] Keep adding more scripts!
