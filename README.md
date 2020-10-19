@@ -8,3 +8,4 @@ Toolbox is a collection of scripts that can be used in day to day red team activ
 
 ## To-Do
 - [ ] Keep adding more scripts!
+- [ ] Fine tuning existing scripts
